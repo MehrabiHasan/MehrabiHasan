@@ -1,9 +1,12 @@
-### Welcome to My Page! 
+# Welcome to My Page! 
 
-Hello My Name is Mehrabi Hasan! I'm Currently a Masters Student at George Mason University. I'm currently studying Computational Sciences and on the free time you can catch me making working on art and videogames. 
+Hello My Name is Mehrabi Hasan! I'm Currently a Masters Student at George Mason University. I'm currently studying Computational Sciences and on the free time you can catch me making working on art and videogames. If you have any questions or interested in getting in touch, feel free to email me below. 
 
 # Interesting Links:
-### Blog
+### Medium Site: https://medium.com/@hasannehrabia
+### Linked In: https://www.linkedin.com/in/mehrabi-hasan/
+### Personal Site: https://mehrabihasan.github.io/
+### E-Mail: Mhasan11@gmu.edu
 
 <!--
 **MehrabiHasan/MehrabiHasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
