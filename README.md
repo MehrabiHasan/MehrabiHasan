@@ -1,6 +1,9 @@
-### This is a Personal Repository Of Mehrabi Hasan. 
+### Welcome to My Page! 
 
-Currently Looking for Work In Data Science 
+Hello My Name is Mehrabi Hasan! I'm Currently a Masters Student at George Mason University. I'm currently studying Computational Sciences and on the free time you can catch me making working on art and videogames. 
+
+# Interesting Links:
+### Blog
 
 <!--
 **MehrabiHasan/MehrabiHasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
